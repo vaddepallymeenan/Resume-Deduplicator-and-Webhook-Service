@@ -1,0 +1,22 @@
+[
+  {
+    "id": "r001",
+    "text": "John Doe  john.doe@email.com  +91-9876543210\nSummary: Experienced Python developer with 5 years in backend.\nSkills: Python, Django, REST APIs, PostgreSQL, Docker, AWS\nExperience: Software Engineer at TechCorp 2019-2024. Built microservices.\nEducation: B.Tech Computer Science, IIT Delhi 2019"
+  },
+  {
+    "id": "r002",
+    "text": "Jane Smith  jane.smith@gmail.com  +91-8765432109\nSummary: Data scientist specializing in NLP and ML models.\nSkills: Python, TensorFlow, PyTorch, scikit-learn, SQL, Spark\nExperience: Data Scientist at Analytics Inc 2020-2024. Built NLP pipelines.\nEducation: M.Sc Statistics, IISc Bangalore 2020"
+  },
+  {
+    "id": "r003",
+    "text": "Alice Johnson  alice.j@outlook.com  +91-7654321098\nSummary: Full-stack developer with React and Node.js expertise.\nSkills: JavaScript, React, Node.js, MongoDB, CSS, HTML\nExperience: Frontend Developer at WebWorks 2021-2024.\nEducation: B.E. Information Technology, VIT 2021"
+  },
+  {
+    "id": "r004",
+    "text": "Bob Kumar  bob.k@techmail.com  +91-6543210987\nSummary: DevOps engineer with strong cloud and CI/CD experience.\nSkills: Kubernetes, Docker, Terraform, Jenkins, AWS, GCP, Ansible\nExperience: DevOps Engineer at CloudBase 2020-2024.\nEducation: B.Tech IT, NIT Trichy 2020"
+  },
+  {
+    "id": "r005",
+    "text": "Priya Sharma  priya.s@corp.io  +91-5432109876\nSummary: Product manager with strong analytical and communication skills.\nSkills: Agile, Jira, Product Roadmap, SQL, Tableau, Stakeholder Management\nExperience: Product Manager at ProductHouse 2018-2024.\nEducation: MBA Product Management, ISB Hyderabad 2018"
+  }
+]
